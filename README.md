@@ -78,6 +78,22 @@ curl http://127.0.0.1:8000/expenses/total
 
 # Delete an expense
 curl -X DELETE http://127.0.0.1:8000/expenses/<id>
+## Screenshots
+
+**Swagger UI — all endpoints**
+![Swagger UI](screenshots/swagger-ui.png)
+
+**Adding an expense — request**
+![Add expense request](screenshots/add-expense-request.png)
+
+**Adding an expense — response**
+![Add expense response](screenshots/add-expense-response.png)
+
+**Totals — request**
+![Totals request](screenshots/totals-request.png)
+
+**Totals — response**
+![Totals response](screenshots/totals-response.png)
 ```
 
 ## Design notes
