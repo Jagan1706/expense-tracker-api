@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+expenses.json
+test_expenses.json
+.pytest_cache/
